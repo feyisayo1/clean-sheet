@@ -89,6 +89,7 @@ h1{
     border-radius: 0.5rem;
     border-bottom: 1px solid #950740;
     color: #950740;
+    z-index: -1;
 }
 
 .skills-card:hover{
