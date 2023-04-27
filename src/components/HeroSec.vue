@@ -2,10 +2,10 @@
     <section class="wrapper">
      
       <div class="content">
-         <p>ABOUT ME</p>
+         <!-- <p>ABOUT ME</p> -->
          <h3>Hello, I'm</h3> 
          <!-- <h2>Ogunleye</h2> -->
-         <h2>Ogunleye David</h2>
+         <h2>David</h2>
          <h4>Frontend Developer</h4>
          <h5>I am a frontend developer. I can provide clean code and pikel perfect design. <br/>
          I can also make the website more & more interactive with web animations <br/>
@@ -40,7 +40,6 @@
 
 <style scoped>
 
-
 .social font-awesome-icon:hover{
    color: white;
 }
@@ -51,6 +50,7 @@
     align-items: center;
     width: 80%;
     margin: 0 auto;
+    height: 100vh;
  }
  .content{
     width: 40%;

@@ -44,7 +44,7 @@ export default{
     }
 
     body{
-      cursor: url('./assets/cursor.cur')
+      cursor: url('/public/cursor.cur')
     }
 
 

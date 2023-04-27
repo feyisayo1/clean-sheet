@@ -1,5 +1,5 @@
-<template>
-    <div class="wrapper">
+<template  >
+    <div class="wrapper" id="services" name="services">
         <div class="services">
         <h2>Services</h2>
         <p>Our Services</p>
@@ -14,7 +14,9 @@
     </div>
 
     <!-- skills section  -->
-    <h1>Skills</h1>
+    <div  id="skills" name="skills">
+        <h1>Skills</h1>
+    </div>
     <div class="skills">
         <div class="skills-card" >
             <font-awesome-icon :icon="['fab', 'html5']"  size="2xl" bounce/>
@@ -67,6 +69,7 @@ export default{
 <style scoped>
 h1{
     text-align: center;
+    color: #950740;
 }
 .skills{
     display: flex;

@@ -1,5 +1,5 @@
 <template>
-    <footer>
+    <footer id="contact" name="contact">
         <form action="mailto:ogunleyeadejare34@gmail.com" class="form">
             <h1>Contact</h1>
             <p>connect with me</p>
