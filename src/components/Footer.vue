@@ -25,7 +25,7 @@
 }
     h1, p{
         text-align: center;
-        color: #920720;
+        color: #950740;
 
     }
 
@@ -60,13 +60,13 @@
         border: none;
         margin-top: 10px;
         /* outline: none; */
-        color: #920720;
+        color: #950740;
         font-size: 20px;
 
-        box-shadow: -3px -3px 7px #ffffff73, 2px 2px 5px rgba(94, 104,121,0.288);
+        /* box-shadow: -3px -3px 7px #ffffff73, 2px 2px 5px rgba(94, 104,121,0.288); */
     }
     .form button:hover{
-        background-color: #920720;
+        background-color: #950740;
         color: #fff;
     }
     .form textarea {

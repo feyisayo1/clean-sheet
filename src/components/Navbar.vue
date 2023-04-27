@@ -17,6 +17,7 @@
     <div class="navbar-menu" @click="toggleMenu" :class="{ 'is-active': isMenuOpen, 'show': isMenuOpen }" >
       <a class="navbar-item" href="#">
         Home
+      <!-- <hr> -->
       </a>
       <!-- <a class="navbar-item" href="#">
         About
@@ -124,7 +125,9 @@ export default {
 }
 .navbar-item:hover{
   color:#fff;
+  /* text-decoration: underline; */
 }
+
 
 .navbar-burger {
   border: none;
