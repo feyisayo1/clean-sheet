@@ -50,8 +50,8 @@ export default{
         const state = ref({
             details: [
                 {id:1 , text: 'Web development', img: 'code.PNG'},
-                // {id:2 , text: 'Backend development',  img: require ('@/assets/data.png')},
-                // {id:3 , text: 'App development', img: require ('@/assets/android.png')}
+                {id:2 , text: 'Backend development',  img: require ('@/assets/data.png')},
+                {id:3 , text: 'App development', img: require ('@/assets/android.png')}
             ],
 
             skills: [
