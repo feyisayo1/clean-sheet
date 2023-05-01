@@ -7,9 +7,15 @@
          <!-- <h2>Ogunleye</h2> -->
          <h2>David</h2>
          <h4>Frontend Developer</h4>
-         <h5>I am a frontend developer. I can provide clean code and pikel perfect design. <br/>
-         I can also make the website more & more interactive with web animations <br/>
-         A responsive design makes your website accessible to all users, regardless of their devices</h5> 
+         <!-- <h5>I am a frontend developer. I provide clean code and pikel perfect design. <br/>
+         I also make website more & more interactive with web animations <br/>
+         A responsive design makes your website accessible to all users, regardless of their devices</h5>  -->
+
+         <h5>
+            I am passionate about crafting visually stunning digital experiences that delight users and exceed expectations. <br>
+            With meticulous attention to detail and pixel-perfect precision, I bring designs to life through clean, efficient, and maintainable code. <br>
+            My expertise in HTML, CSS, JavaScript, and VueJs enables me to develop responsive, intuitive, and highly functional interfaces that seamlessly integrate with backend systems. <br>
+         </h5>
          <a href="#" class="btn">Download CV</a>
 
          <div class="social">

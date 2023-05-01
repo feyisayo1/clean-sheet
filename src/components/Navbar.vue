@@ -23,7 +23,7 @@
         About
       </a> -->
       <a class="navbar-item" href="#skills">
-        skills
+        Skills
       </a>
       <a class="navbar-item" href="#services">
         Services
@@ -118,7 +118,7 @@ export default {
 }
 
 .navbar-item {
-  display: block;
+  /* display: block; */
   color: #950740;
   font-size: 20px;
 
